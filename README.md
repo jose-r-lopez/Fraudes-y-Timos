@@ -10,3 +10,9 @@ Además, los siguientes enlaces contienen mis materiales de divulgación:
 - **Redes, Mentiras y (tus) Tarjetas de crédito: Fraudes Online**: https://www.researchgate.net/publication/348307670_Redes_Mentiras_y_tus_Tarjetas_de_credito_Fraudes_Online
     - Video: https://www.youtube.com/watch?v=pVoMN9mrCVk&t=64s
 - **Ransom-zines: Previniendo el ransomware a través de cómics**: https://www.researchgate.net/publication/355844143_Ransom-zines_Previniendo_el_Ransomware_a_traves_de_comics
+
+# Otras asignaturas
+
+Esta iniciativa forma parte de un grupo de asignaturas que gestiono y mantengo como parte de la iniciativa "Cobra Kali". Si alguno quiere verlas (aunque son de perfil técnico) están disponibles gratuitamente aquí: 
+- **Seguridad de Sistemas Informáticos**: https://ocw.uniovi.es/course/view.php?id=98
+- **Administración de Sistemas Operativos**: https://ocw.uniovi.es/course/view.php?id=99
